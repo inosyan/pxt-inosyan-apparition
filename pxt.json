@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "pxt-inosyan-command-register": "github:inosyan/pxt-inosyan-command-register#009c44bdbc5b3faadaaa5cff7cc3dd09a4cefeb7"
     },
     "files": [
         "README.md",
